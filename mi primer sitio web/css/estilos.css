@@ -1,0 +1,32 @@
+
+body{
+	font-family:  "Times New Roman";
+
+	}
+
+h1,div,p,aside,footer  {
+							width: 50%;
+							
+						background:  #aed6f1  ;
+
+						 margin: 2em 3em;
+							padding: 1.5em;
+							}
+
+nav  ol li a{
+	width: 50%;
+	background:  #aed6f1  ;
+	 margin: 2em 3em;
+	
+
+}
+
+h1{
+	text-align: center;
+	color:  #71ab92  ;
+}
+
+
+			
+
+			

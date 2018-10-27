@@ -1,0 +1,13 @@
+
+a = &aacute
+
+é = &eacute
+
+í = &iacute
+
+ó = &oacute
+
+ú = &uacute
+
+ñ = &ntilde
+<link rel="stylesheet" href="css/estilos.css">
