@@ -37,6 +37,15 @@ footer{
 	 text-align: center;
 
 }
+.menu2{
+	width: 100%;
+	list-style: none;
+
+
+}
+.menu2 li{
+	display: inline-block;
+}
 			
 img {
 	width: 100px;
